@@ -15,7 +15,6 @@
 - [Customization](#customization)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 The Language Translator is a web application that allows users to translate text between different languages in real-time. It is built using HTML, CSS, and JavaScript, and it utilizes a translation API to perform the language translation.
@@ -55,6 +54,3 @@ Please sign up for a free API key from [Translation API Provider] and replace th
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).

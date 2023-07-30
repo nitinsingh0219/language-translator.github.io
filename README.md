@@ -1,5 +1,7 @@
 # Language Translator
 
+## Disclaimer write using first letter always capital.
+
 ## Demo
 
 ![Demo](https://user-images.githubusercontent.com/47030714/197366440-212fee96-7606-41dc-b45a-eefc8157fa7c.png)
@@ -25,7 +27,7 @@ The Language Translator is a web application that allows users to translate text
 - Responsive and user-friendly interface.
 
 ## Demo
-You can try out the live demo of the Language Translator [here](https://your-demo-link.com).
+You can try out the live demo of the Language Translator [here](https://nitinsingh0219.github.io/language-translator.github.io/).
 
 ## Installation
 To use the language translator locally, follow these steps:
